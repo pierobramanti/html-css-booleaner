@@ -50,10 +50,24 @@ header{
     font-weight: 10px;
     padding-left: 10px;
 }
-span{
+#Lightblue{
     color: aqua;
 }
 
 .Tim_pic{
-   margin: 10px;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+.credit{
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 10px;
+}
+.Yellow{
+    background-color: yellow;
+}
+section{
+    font-size: 20px;
+    font-weight: 10px;
 }
