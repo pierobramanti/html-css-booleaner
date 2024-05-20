@@ -45,7 +45,7 @@ header{
     padding-left: 10px;
 }
 
-#Sottotitolo{
+.Sottotitolo{
     color: grey;
     font-weight: 10px;
     padding-left: 10px;
@@ -70,6 +70,10 @@ header{
 section{
     font-size: 20px;
     font-weight: 10px;
+    margin-left: 10px;
+}
+table{
+    margin-left: 10px;
 }
 thead{
     background-color: rgb(28, 107, 107);
@@ -78,4 +82,34 @@ thead{
 }
 .Row{
     background-color: rgb(204, 228, 236);
+}
+
+.last-pics{
+    color: white;
+    font-weight: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+ 
+  
+}
+
+#first-images{
+    background-image: url(../IMG/monitor.jpg);
+    height: 350px;
+    width: 350px;
+    background-repeat: no-repeat;
+    padding: auto;
+    margin: 0px 0px ;
+
+
+}
+#second-images{
+    background-image: url(../IMG/graph.jpg);
+    height: 350px;
+    width: 350px;
+    background-repeat: no-repeat;
+    padding: auto;
+    margin: 0px 0px;
+
+    
 }
