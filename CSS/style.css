@@ -71,3 +71,11 @@ section{
     font-size: 20px;
     font-weight: 10px;
 }
+thead{
+    background-color: rgb(28, 107, 107);
+    color: white;
+    
+}
+.Row{
+    background-color: rgb(204, 228, 236);
+}
