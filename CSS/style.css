@@ -28,6 +28,7 @@ header{
     font-size: 25px;
     margin-bottom: 0px;
     border-bottom: 0px;
+  
 
 }
 
@@ -78,6 +79,7 @@ table{
 thead{
     background-color: rgb(28, 107, 107);
     color: white;
+    border: 0px;
     
 }
 .Row{
@@ -86,30 +88,35 @@ thead{
 
 .last-pics{
     color: white;
-    font-weight: 30px;
+    font-weight: 40px;
     font-size: 20px;
     margin-left: 10px;
+   
+
+   
  
   
 }
 
 #first-images{
     background-image: url(../IMG/monitor.jpg);
-    height: 350px;
+    height: 210px;
     width: 350px;
     background-repeat: no-repeat;
-    padding: auto;
-    margin: 0px 0px ;
+    margin-bottom: 4px;
+
+
 
 
 }
 #second-images{
     background-image: url(../IMG/graph.jpg);
-    height: 350px;
+    height: 210px;
     width: 350px;
     background-repeat: no-repeat;
-    padding: auto;
-    margin: 0px 0px;
+    margin-bottom: 4px;
+
+
 
     
 }
